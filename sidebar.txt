@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdf:home|Door43 (cdf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdf|d43-cdf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdf/archive/master.zip|d43-cdf.zip]]
+
+**Recent Changes**
+{{changes>ns = cdf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdf|Ethnologue data]]
+
