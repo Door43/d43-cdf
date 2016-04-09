@@ -1,0 +1,30 @@
+===== The Stone Tablets [13-07] =====
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink}}
+
+Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave them to **Moses**. **God also gave** many other laws and rules **to follow**. If the people **obeyed** these laws, God **promised** that he would **bless** and protect them. If they **disobeyed** them, God would **punish them**.
+===== Important Terms: =====
+
+
+  * **[[:cdf:obe:kt:god]]**
+  * **[[:cdf:obe:other:tencommandments]]**
+  * **[[:cdf:obe:other:moses]]**
+  * **[[:cdf:obe:kt:lawofmoses]]**
+  * **[[:cdf:obe:other:obey]]**
+  * **[[:cdf:obe:kt:promise]]**
+  * **[[:cdf:obe:kt:bless]]**
+  * **[[:cdf:obe:other:disobey]]**
+  * **[[:cdf:obe:other:punish]]**
+
+
+==== Translation Notes: ====
+
+
+  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:cdf:obs:notes:frames:13-05|[13-05]]]** and **[[:cdf:obs:notes:frames:13-06|[13-06]]]**.
+  * **stone tablets** - These were flat pieces of stone.
+  * **God also gave** - This can be translated as, "God also told them."
+  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
+
+
+**[[:cdf:obs:notes:frames:13-06|<<]] | [[:cdf:obs:notes:13|Up]] | [[:cdf:obs:notes:frames:13-08|>>]]**
